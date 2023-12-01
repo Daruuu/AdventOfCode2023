@@ -1,0 +1,8 @@
+//
+// Created by daruuu on 12/1/23.
+//
+
+#ifndef ADVENTOFCODE2023_DAY01_H
+#define ADVENTOFCODE2023_DAY01_H
+
+#endif //ADVENTOFCODE2023_DAY01_H
